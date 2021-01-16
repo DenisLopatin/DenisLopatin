@@ -3,12 +3,21 @@
 Занимаюсь веб разработкой с 2018 года, но с HTML и CSS познакомился еще в середине 2015-ого года. Языки и технологии которые я изучал и изучаю по сей день:
 
 * HTML и CSS
-    * OOCSS
-    * BEM
-    * ITCSS
+    * CSS библиотеки
+        * Bootstrap
+        * Foundation
+        * Materialize 
+        * Skeleton 
+    * Препроцессоры
+        * SASS
+        * SCSS
+    * Методологии
+        * OOCSS
+        * BEM
+        * ITCSS
     * Семантика
-    * SASS, SCSS
 * JavaScript
+    * jQuery
 * WEBPACK
 * NPM
 * GIT
