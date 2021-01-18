@@ -15,7 +15,7 @@
         * OOCSS
         * BEM
         * ITCSS
-    * Семантика
+    * Семантика, кроссбраузерность, адаптивность
 * JavaScript
     * jQuery
 * WEBPACK
