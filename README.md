@@ -31,6 +31,15 @@
 
 Сайт демонстрирующий различные CSS компоненты. 
 
+[News.API](https://denislopatin.github.io/News.API/):
+[News.API репозиторий](https://github.com/DenisLopatin/DenisLopatin.github.io/tree/main/News.API)
+
+***На сайте нельзя посмотреть примеры запросов, так как они запрещены в тарифе development.*** 
+SASS и нативный JavaScript.
+Работа с API сервисом newsapi.org.
+Сайт выполнен по методологии BEM. Семантическая верстка.
+Возможность выбора темы и языка.
+
 ### Плагины:
 
 [Page Scroll Indicator](https://denislopatin.github.io/Scroll-Page-Indicator/):
