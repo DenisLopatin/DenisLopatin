@@ -33,7 +33,7 @@
 
 [News.API](https://denislopatin.github.io/News.API/)  
 
-[News.API репозиторий](https://github.com/DenisLopatin/DenisLopatin.github.io/tree/main/News.API)
+[News.API репозиторий](https://github.com/DenisLopatin/News.API)
 
 ***На сайте нельзя посмотреть примеры запросов, так как они запрещены в тарифе development.*** 
 * SASS и нативный JavaScript.
