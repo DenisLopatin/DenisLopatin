@@ -31,11 +31,15 @@
 
 Сайт демонстрирующий различные CSS компоненты. 
 
+* Выполнен по методологиям OOCSS и SMACSS.
+* SASS и нативный JavaScript
+
 [News.API](https://denislopatin.github.io/News.API/)  
 
 [News.API репозиторий](https://github.com/DenisLopatin/News.API)
 
 ***На сайте нельзя посмотреть примеры запросов, так как они запрещены в тарифе development.*** 
+
 * SASS и нативный JavaScript.
 * Работа с API сервисом newsapi.org.
 * Сайт выполнен по методологии BEM. Семантическая верстка.
