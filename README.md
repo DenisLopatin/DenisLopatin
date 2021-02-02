@@ -58,12 +58,7 @@
 
 [Food Lover](https://denislopatin.github.io/Food%20Lover%20-%20Landing%20Template/):
 
+* OOCSS
 * Нативный css и js. 
-* Полифилы для js с MDN. 
 * Поддержка IE11. 
-* Файлы css разбиты по отдельным секциям. 
-* Картинки не сжаты.
-* Файлы не минимизированы.
-* Pixel Perfect не был соблюден в верхнем навигационном меню, в секции Our Menu и нижнем навигационном меню в пользу flex-box свойства justify-content: space-between.
-* Тестовый макет по шаблону, не оптимизирован
 
