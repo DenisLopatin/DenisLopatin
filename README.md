@@ -48,8 +48,9 @@
 ### Плагины:
 
 [Page Scroll Indicator](https://denislopatin.github.io/Scroll-Page-Indicator/):
+[Page Scroll Indicator репозиторий](https://denislopatin.github.io/Scroll-Page-Indicator/):
 
-Небольшой плагин для сайта устанавливающий индикатор прокрутки страницы.
+Плагин для сайта устанавливающий индикатор прокрутки для страницы или для отдельного элемента на ней.
 
 * Кроссбраузерный плагин (IE9+)
 * Плагин предоставляет функцию для настройки
