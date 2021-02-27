@@ -65,11 +65,3 @@
 * Кроссбраузерный плагин (IE9+)
 * Плагин предоставляет функцию для настройки
 
-### Лендинги:
-
-[Food Lover](https://denislopatin.github.io/Food%20Lover%20-%20Landing%20Template/):
-
-* OOCSS
-* Нативный css и js. 
-* Поддержка IE11. 
-
