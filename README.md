@@ -34,15 +34,6 @@
 
 ## Мои работы:
 
-### Сайты:
-
-[MAGICSS](http://magicss.pro/):
-
-Сайт демонстрирующий различные CSS компоненты. 
-
-* Выполнен по методологиям OOCSS и SMACSS.
-* SASS и нативный JavaScript
-
 ### Плагины:
 
 [Page Scroll Indicator](https://denislopatin.github.io/Scroll-Page-Indicator/):
