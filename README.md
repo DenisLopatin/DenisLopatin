@@ -61,3 +61,5 @@
 [Animation Assistant репозиторий](https://github.com/DenisLopatin/animation-assistant):
 
 [Animation Assistant NPM](https://www.npmjs.com/package/animation-assistant):
+
+Плагин помогает рабать с различными библиотеками CSS анимаций. Возможна работа со своими анимациями через плагин.
