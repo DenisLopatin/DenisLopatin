@@ -43,25 +43,21 @@
 * Выполнен по методологиям OOCSS и SMACSS.
 * SASS и нативный JavaScript
 
-[News.API](https://denislopatin.github.io/News.API/)  
-
-[News.API репозиторий](https://github.com/DenisLopatin/News.API)
-
-***На сайте нельзя посмотреть примеры запросов, так как они запрещены в тарифе development.*** 
-
-* SASS и нативный JavaScript.
-* Работа с API сервисом newsapi.org.
-* Сайт выполнен по методологии BEM. Семантическая верстка.
-* Возможность выбора темы и языка.
-
 ### Плагины:
 
 [Page Scroll Indicator](https://denislopatin.github.io/Scroll-Page-Indicator/):
 
 [Page Scroll Indicator репозиторий](https://denislopatin.github.io/Scroll-Page-Indicator/):
 
+[Page Scroll Indicator NPM](https://www.npmjs.com/package/page-scroll-indicator):
+
 Плагин для сайта устанавливающий индикатор прокрутки для страницы или для отдельного элемента на ней.
 
 * Кроссбраузерный плагин (IE9+)
 * Плагин предоставляет функцию для настройки
 
+[Animation Assistant](https://denislopatin.github.io/Animation-Assistant-documentation/ru-index.html):
+
+[Animation Assistant репозиторий](https://github.com/DenisLopatin/animation-assistant):
+
+[Animation Assistant NPM](https://www.npmjs.com/package/animation-assistant):
