@@ -29,6 +29,7 @@
     * Библиотеки
         * jQuery
         * React
+* Node.js
 * PHP
 * WEBPACK
 * GULP
