@@ -12,20 +12,23 @@
         * SASS
         * SCSS
         * PUG
-    * Методологии
+    * CSS Методологии
         * OOCSS
         * SMACSS
         * BEM
         * ITCSS
+        * Atomic CSS 
     * Семантика, кроссбраузерность, адаптивность
 * JavaScript
     * This и прототипы объектов
+    * ООП
     * Область видимости и замыкания
-    * Асинхронность
+    * Event loop
     * Работа с DOM
     * Регулярные выражения
     * Библиотеки
         * jQuery
+        * React
 * PHP
 * WEBPACK
 * GULP
