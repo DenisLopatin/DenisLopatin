@@ -45,7 +45,7 @@
 
 ### Плагины:
 
-[Page Scroll Indicator](https://denislopatin.github.io/Scroll-Page-Indicator/):
+[Page Scroll Indicator](https://denislopatin.github.io/page-scroll-indicator/):
 
 [Page Scroll Indicator репозиторий](https://denislopatin.github.io/Scroll-Page-Indicator/):
 
@@ -56,7 +56,9 @@
 * Кроссбраузерный плагин (IE9+)
 * Плагин предоставляет функцию для настройки
 
-[Animation Assistant](https://denislopatin.github.io/Animation-Assistant-documentation/ru-index.html):
+[Animation Assistant (RU)](https://denislopatin.github.io/animation-assistant/ru-index.html):
+
+[Animation Assistant (EN)](https://denislopatin.github.io/animation-assistant/en-index.html):
 
 [Animation Assistant репозиторий](https://github.com/DenisLopatin/animation-assistant):
 
