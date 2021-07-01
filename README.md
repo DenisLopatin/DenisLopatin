@@ -75,7 +75,7 @@
 
 "Полифил" для асинхронных функций. Построен на базе генераторов и обещаний.
 
-[Array methods](https://github.com/DenisLopatin/polyfills/tree/main/async%20await):
+[array methods](https://github.com/DenisLopatin/polyfills/tree/main/async%20await):
 
 Полифилы для популярных методов массивов: forEach, map, filter, every, some и reduce.
 Поддержка браузерами IE версии 5 и выше.
