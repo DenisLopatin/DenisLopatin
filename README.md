@@ -4,6 +4,20 @@
 
 ## Языки и технологии которые я изучал и изучаю по сей день:
 
+![HTML5](https://denislopatin.github.io/git-icons/icons/html-5.svg)
+![CSS](https://denislopatin.github.io/git-icons/icons/css-3.svg)
+![JavaScript](https://denislopatin.github.io/git-icons/icons/javascript.svg)
+![Node.js](https://denislopatin.github.io/git-icons/icons/nodejs.svg)
+![PHP](https://denislopatin.github.io/git-icons/icons/php.svg)
+![Bootstrap](https://denislopatin.github.io/git-icons/icons/bootstrap.svg)
+![GIT](https://denislopatin.github.io/git-icons/icons/git.svg)
+![GULP](https://denislopatin.github.io/git-icons/icons/gulp.svg)
+![jQuery](https://denislopatin.github.io/git-icons/icons/jquery.svg)
+![NPM](https://denislopatin.github.io/git-icons/icons/npm.svg)
+![React](https://denislopatin.github.io/git-icons/icons/react.svg)
+![SASS](https://denislopatin.github.io/git-icons/icons/sass.svg)
+![WEBPACK](https://denislopatin.github.io/git-icons/icons/webpack.svg)
+
 * HTML и CSS
     * CSS библиотеки
         * Bootstrap
