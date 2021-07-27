@@ -63,6 +63,7 @@
 * GIT и GITHUB
 * Английский технический. Elementary - Pre-Intermediate.
 * [Codewars](https://www.codewars.com/users/DenisLopatin "Мой профиль на Codewars")
+* [Сyberforum blog](https://www.cyberforum.ru/blogs/1689073/ "Мой блог на Сyberforum")
 
 ## Мои работы:
 
