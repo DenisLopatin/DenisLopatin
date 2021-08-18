@@ -2,6 +2,8 @@
 
 Занимаюсь веб разработкой с 2018 года, но с HTML и CSS познакомился еще в середине 2015-ого года. Начинал со статических сайтов. Пробовал работать с сервером изучая PHP, но мне не хватало CSS анимации для интерактива на моих сайтах. Так я познакомился с jQuery а потом и с JavaScript. Люблю верстать, писать плагины и полифилы. 
 
+---
+
 ## Языки и технологии которые я изучал и изучаю по сей день:
 
 ![HTML5](https://denislopatin.github.io/git-icons/icons/html-5.svg)
@@ -65,6 +67,8 @@
 * [Codewars](https://www.codewars.com/users/DenisLopatin "Мой профиль на Codewars")
 * [Сyberforum blog](https://www.cyberforum.ru/blogs/1689073/ "Мой блог на Сyberforum")
 
+---
+
 ## Мои работы:
 
 ### Плагины:
@@ -80,6 +84,8 @@
 * Кроссбраузерный плагин (IE9+)
 * Плагин предоставляет функцию для настройки
 
+---
+
 [Animation Assistant (RU)](https://denislopatin.github.io/animation-assistant/ru-index.html):
 
 [Animation Assistant (EN)](https://denislopatin.github.io/animation-assistant/en-index.html):
@@ -93,13 +99,28 @@
 * Поддерживает как минимум 7 сторонних библиотек предоставляющие CSS анимации
 * Возможна работа со своими анимациями через плагин
 
+---
+
 ### Полифилы:
 
 [async-await](https://github.com/DenisLopatin/polyfills/tree/main/async%20await):
 
 "Полифил" для асинхронных функций. Построен на базе генераторов и обещаний.
 
+---
+
 [array methods](https://github.com/DenisLopatin/polyfills/tree/main/async%20await):
 
 Полифилы для популярных методов массивов: forEach, map, filter, every, some и reduce.
 Поддержка браузерами IE версии 5 и выше.
+
+---
+
+<details>
+<summary>Подробнее</summary>
+   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisLopatin&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisLopatin&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
