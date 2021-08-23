@@ -73,26 +73,25 @@
 
 ### Плагины:
 
-[Page Scroll Indicator](https://denislopatin.github.io/page-scroll-indicator/):
+[Page Scroll Indicator (RU)](https://denislopatin.github.io/page-scroll-indicator/)
 
-[Page Scroll Indicator репозиторий](https://denislopatin.github.io/Scroll-Page-Indicator/):
+[Page Scroll Indicator (EN)](https://denislopatin.github.io/page-scroll-indicator/en-index.html)
 
-[Page Scroll Indicator NPM](https://www.npmjs.com/package/page-scroll-indicator):
+[Page Scroll Indicator репозиторий](https://denislopatin.github.io/Scroll-Page-Indicator/)
 
-Плагин для сайта устанавливающий индикатор прокрутки для страницы или для отдельного элемента на ней.
+[Page Scroll Indicator NPM](https://www.npmjs.com/package/page-scroll-indicator)
 
-* Кроссбраузерный плагин (IE9+)
-* Плагин предоставляет функцию для настройки
+Плагин устанавливает индикатор прокрутки для страницы или для отдельного элемента на ней. Использование этого плагина дает возможность пользователям вашего сайта отслеживать количество оставшегося контента на целевой странице или в отдельной статье, расположенной на целевой странице.
 
 ---
 
-[Animation Assistant (RU)](https://denislopatin.github.io/animation-assistant/ru-index.html):
+[Animation Assistant (RU)](https://denislopatin.github.io/animation-assistant/ru-index.html)
 
-[Animation Assistant (EN)](https://denislopatin.github.io/animation-assistant/en-index.html):
+[Animation Assistant (EN)](https://denislopatin.github.io/animation-assistant/en-index.html)
 
-[Animation Assistant репозиторий](https://github.com/DenisLopatin/animation-assistant):
+[Animation Assistant репозиторий](https://github.com/DenisLopatin/animation-assistant)
 
-[Animation Assistant NPM](https://www.npmjs.com/package/animation-assistant):
+[Animation Assistant NPM](https://www.npmjs.com/package/animation-assistant)
 
 Плагин помогает рабать с различными библиотеками CSS анимаций.
 
