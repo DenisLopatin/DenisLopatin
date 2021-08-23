@@ -77,7 +77,7 @@
 
 [Page Scroll Indicator (EN)](https://denislopatin.github.io/page-scroll-indicator/en-index.html)
 
-[Page Scroll Indicator репозиторий](https://denislopatin.github.io/Scroll-Page-Indicator/)
+[Page Scroll Indicator репозиторий](https://github.com/DenisLopatin/page-scroll-indicator)
 
 [Page Scroll Indicator NPM](https://www.npmjs.com/package/page-scroll-indicator)
 
