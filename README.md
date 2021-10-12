@@ -56,6 +56,9 @@
             * Роутинг (react-router-dom)
 * Node.js
 * PHP
+    * ООП
+    * Работа с API
+    * Работа с БД (MySQL)
 * WEBPACK
 * GULP
 * NPM
@@ -63,9 +66,6 @@
     * Работа со сторонними пакетами
     * Написание своих пакетов 
 * GIT и GITHUB
-* Английский технический. Elementary - Pre-Intermediate.
-* [Codewars](https://www.codewars.com/users/DenisLopatin "Мой профиль на Codewars")
-* [Сyberforum blog](https://www.cyberforum.ru/blogs/1689073/ "Мой блог на Сyberforum")
 
 ---
 
