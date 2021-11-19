@@ -1,74 +1,24 @@
-# Обо мне
+Hi there!
 
-Занимаюсь веб разработкой с 2018 года, но с HTML и CSS познакомился еще в середине 2015-ого года. Работаю с JavaScript на клиенте. На сервере использую PHP. Люблю верстать, писать плагины и полифилы. 
-
----
-
-## Языки и технологии которые я изучал и изучаю по сей день:
-
-![HTML5](https://denislopatin.github.io/git-icons/icons/html-5.svg)
-![CSS](https://denislopatin.github.io/git-icons/icons/css-3.svg)
-![JavaScript](https://denislopatin.github.io/git-icons/icons/javascript.svg)
-![Node.js](https://denislopatin.github.io/git-icons/icons/nodejs.svg)
-![PHP](https://denislopatin.github.io/git-icons/icons/php.svg)
-![Bootstrap](https://denislopatin.github.io/git-icons/icons/bootstrap.svg)
-![GIT](https://denislopatin.github.io/git-icons/icons/git.svg)
-![GULP](https://denislopatin.github.io/git-icons/icons/gulp.svg)
-![jQuery](https://denislopatin.github.io/git-icons/icons/jquery.svg)
-![NPM](https://denislopatin.github.io/git-icons/icons/npm.svg)
-![React](https://denislopatin.github.io/git-icons/icons/react.svg)
-![SASS](https://denislopatin.github.io/git-icons/icons/sass.svg)
-![WEBPACK](https://denislopatin.github.io/git-icons/icons/webpack.svg)
-
-* HTML и CSS
-    * CSS библиотеки
-        * Bootstrap
-        * Foundation
-        * Materialize 
-        * Skeleton 
-    * Препроцессоры
-        * SASS
-        * SCSS
-        * PUG
-    * CSS Методологии
-        * OOCSS
-        * SMACSS
-        * BEM
-        * ITCSS
-        * Atomic CSS 
-    * Семантика, кроссбраузерность, адаптивность
-    * Flexbox, CSS Grid
-* JavaScript
-    * This и прототипы объектов (ООП)
-    * Область видимости и замыкания
-    * Event loop
-    * Работа с DOM
-    * Работа с API
-    * Регулярные выражения
-    * Генераторы и итераторы
-    * AJAX, JSON
-    * Библиотеки
-        * jQuery
-        * React
-            * Объектно ориентированный и функциональный подход
-            * Hooks
-            * Жизненный цикл компонентов
-            * Композиция (high order components)
-            * Роутинг (react-router-dom)
-* Node.js
-* PHP
-    * ООП
-    * Создание API
-    * Работа с БД (MySQL)
-* WEBPACK
-* GULP
-* NPM
-    * Интеграция пакетов в проект
-    * Работа со сторонними пакетами
-    * Написание своих пакетов 
-* GIT и GITHUB
-
----
+<img src="https://denislopatin.github.io/git-icons/icons/html-5.svg" width="32" height="32" /><img 
+src="https://denislopatin.github.io/git-icons/icons/css-3.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/sass.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/less.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/bootstrap.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/tailwindcss.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/javascript.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/typescript.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/jquery.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/react.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/angular-icon-1.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/next-js.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/nodejs.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/php.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/laravel-2.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/git.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/gulp.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/webpack.svg" width="32" height="32" />
+<img src="https://denislopatin.github.io/git-icons/icons/npm.svg" width="32" height="32" />
 
 ## Мои работы:
 
