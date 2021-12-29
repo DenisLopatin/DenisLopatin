@@ -1,4 +1,4 @@
-Hi there!
+Hi there! I study and work with:
 
 <img src="https://denislopatin.github.io/git-icons/icons/html-5.svg" width="32" height="32" /><img 
 src="https://denislopatin.github.io/git-icons/icons/css-3.svg" width="32" height="32" />
