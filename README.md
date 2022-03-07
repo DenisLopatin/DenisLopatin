@@ -19,3 +19,9 @@ src="https://denislopatin.github.io/git-icons/icons/css-3.svg" width="32" height
 <img src="https://denislopatin.github.io/git-icons/icons/gulp.svg" width="32" height="32" />
 <img src="https://denislopatin.github.io/git-icons/icons/webpack.svg" width="32" height="32" />
 <img src="https://denislopatin.github.io/git-icons/icons/npm.svg" width="32" height="32" />
+
+My projects:
+
+[TodoList](https://denislopatin.github.io/todo-list/)
+
+[AniamtionAssistant](https://animation-assistant-docs.vercel.app/)
