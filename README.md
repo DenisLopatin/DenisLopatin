@@ -26,6 +26,8 @@ My projects:
 
 [AniamtionAssistant](https://animation-assistant-docs.vercel.app/)
 
+[PasswordGenerator](https://denislopatin.github.io/password-generator/)
+
 [PageScrollIndicator](https://denislopatin.github.io/page-scroll-indicator/)
 
 [KeyMaster](https://denislopatin.github.io/keymaster/)
