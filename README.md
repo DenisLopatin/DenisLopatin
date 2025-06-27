@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenisLopatin" style="text-decoration: none">
-    <img src="https://github-readme-stats.vercel.app/api?username=DenisLopatin&show_icons=true&locale=ru&theme=tokyonight" alt="DenisLopatin stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisLopatin&layout=compact&locale=ru&theme=tokyonight" alt="DenisLopatin's top languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DenisLopatin&show_icons=true&locale=en&theme=transparent" alt="DenisLopatin stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisLopatin&layout=compact&locale=en&theme=transparent" alt="DenisLopatin's top languages" />
   </a>
 </p>
